@@ -12,8 +12,11 @@
 
 6. [ROS Qt Creator](https://ros-qtc-plugin.readthedocs.io/en/latest/)
 
-
-
+```
+sudo apt-get install ros-kinetic-move-base
+sudo apt-get install ros-kinetic-map-server
+sudo apt-get install ros-kinetic-qt-build
+```
 -------------
 
 # How to run the functions of 'manipulator'
