@@ -13,6 +13,9 @@
 6. [ROS Qt Creator](https://ros-qtc-plugin.readthedocs.io/en/latest/)
 
 ---
+
+7. ROS libraries
+
 ```
 sudo apt-get install ros-kinetic-tf2-geometry-msgs ros-kinetic-find-object-2d ros-kinetic-moveit* ros-kinetic-qt-build ros-kinetic-map-server ros-kinetic-move-base -y 
 ```
